@@ -1,0 +1,22 @@
+h1 {
+    font-size: 48px;
+    color: #07d0ef;
+    font-weight: bolder;
+    text-align: center;
+    font-family: "times new roman", "brush script mt",arial, sans-serif;
+    background-color: rgba(1, 2, 15, 0.683);
+
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+a {
+    font-size: 24px;
+}
