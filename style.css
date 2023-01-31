@@ -1,4 +1,5 @@
-h1 {
+/*Main page style*/
+h1.main-page {
     font-size: 48px;
     color: #07d0ef;
     font-weight: bolder;
@@ -8,11 +9,11 @@ h1 {
 
 }
 
-body {
+body.main-page {
     text-align: center;
 }
 
-img {
+img.main-page {
     height: auto;
     width: 400px;
 }
@@ -20,3 +21,28 @@ img {
 a {
     font-size: 24px;
 }
+
+
+/*Pasta page style*/
+.page-header {
+    color: #09782c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px; 
+}
+
+.pasta-page {
+    color: #03573f;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+img.pasta-page {
+    height: auto;
+    width: 425px;
+}
+
+.pasta-page-list {
+    background-color: rgb(250, 225, 195);
+}
+
+
