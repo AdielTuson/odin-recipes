@@ -67,3 +67,32 @@ img.pasta-page {
 .cosmo-list {
     background-color: #fac4c4;
 }
+
+
+/*Chocolate chip cookies style*/
+
+#cookies-page-header {
+    color: hsl(20, 70%, 55%);
+    background-color: rgb(34, 7, 7);
+    font-size: 38px;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+#cookies-image {
+    height: 400px;
+    width: 400px;
+}
+
+.cookies-page h3,h4 {
+    background-color: rgb(223, 190, 106);
+    font-size: 22px;
+}
+
+.cookies-page {
+    font-family:'Arial Narrow', Arial, sans-serif;
+}
+
+.cookies-page ol, ul {
+    font-size: 18x;
+    background-color: rgb(240, 224, 192);
+}
