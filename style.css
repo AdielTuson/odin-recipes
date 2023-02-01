@@ -46,3 +46,24 @@ img.pasta-page {
 }
 
 
+/*Cosmopolitan page style*/
+#cosmo-header {
+    color: #ff0000;
+    font-family: "courier new";
+    font-size: 44px;
+}
+
+.cosmo-page h3 ,.cosmo-page h4 {
+    color: rgb(208, 255, 0);
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #f6f6f6
+}
+
+.cosmo-page {
+    color: #930505;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cosmo-list {
+    background-color: #fac4c4;
+}
